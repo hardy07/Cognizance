@@ -1,0 +1,15 @@
+#Pseudocode to find if a given number is divisible by 3, without using the ‘%’ operator explicitly (like N % 3 == 0).
+
+
+input(n)
+WHILE n IS GREATER THAN 0
+    n = n - 3
+END LOOP
+
+IF n IS EQUAL TO 0 THEN
+    PRINT "True"
+ELSE
+    PRINT "False"
+END IF
+
+END
