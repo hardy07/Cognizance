@@ -1,0 +1,17 @@
+#Pseudocode for a program that prints nth fibonacci number. (nth Fibonacci Number denoted as F(n), F(0)=0, F(1)=1, F(2)=1, F(3)=2,…)
+
+
+n = INTEGER(USERINPUT)
+
+PROCEDURE Fibonacci
+    IF n LESSER THAN 0 THEN
+       OUTPUT "Oops! Incorrect input"
+    ELIF n IS EQUAL TO 0
+       RETURN 0
+    ELIF n IS EQUAL TO 1
+       RETURN 1
+    ELSE
+       RETURN Fibonacci(n - 1) + Fibonacci(n - 2)
+    ENDIF
+OUTPUT "THE nth FIBONACCI NUMBER IS: , fibonacci(n)"
+END
