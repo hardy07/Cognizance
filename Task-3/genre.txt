@@ -1,2 +1,2 @@
-My Design is about a Music Streaming Platform. I named it as Musique(means music in french).
+My Design is about a Music Streaming Platform. I named it as Musique(French word for music).
 Its a link for it https://xd.adobe.com/view/a5179dc0-0854-4846-957e-d5f65df68b0a-f044/?fullscreen
