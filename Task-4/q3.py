@@ -2,7 +2,7 @@ Matrix = [
     ['Roll_no', '  Name', '  Marks'],
     ['1', '        Abc', '    90'],
     ['2', '        Def', '    95'],
-    ['3', '        Ghi', '    85']
+    ['3', '        Ghi', '    85\n']
 ]
 
 for x in Matrix:    #For loop to print Every list without ' '
