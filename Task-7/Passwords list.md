@@ -1,4 +1,4 @@
-> <b><span style="color: red ; font-size: 2rem; font-family: book antiqua">**Passwords**</span></b>
+# Passwords
 
 > <b><span style="color: red ; font-size: 2rem; font-family: book antiqua">**1) Level 0**</span></b>
 * bandit0
