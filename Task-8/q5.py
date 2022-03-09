@@ -11,7 +11,6 @@ print("Multiplication of the two matrices are:")
 print(res)
 
 #5. Array re-dimensioning using numpy
-import numpy as np
 a = np.array([9, 1, 1, 4, 2, 0, 6, 9, 6, 1, 2, 3])
 print("Before re-dimensioning:")
 print(a)
