@@ -1,3 +1,5 @@
+#question5
+
 #2. Multiplying a matrix using numpy
 import numpy as np  #importing numpy
 first=np.array([[1,2,3],[4,5,6],[7,8,9]])  #first matrix
